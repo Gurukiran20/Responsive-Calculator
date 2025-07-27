@@ -1,4 +1,4 @@
-#  Responsive Calculator – FUTURE DRIFT
+#  Responsive Calculator 
 
 A sleek and responsive calculator web application built using **HTML**, **CSS**, and **JavaScript**.  
 It performs basic arithmetic operations and is optimized for both desktop and mobile devices.
